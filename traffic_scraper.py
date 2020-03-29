@@ -71,7 +71,7 @@ def main():
 	text = f.read()
 	soup = BeautifulSoup(text, features="lxml")
 	list(soup.children)
-	paragraphs = soup.find_all('section')
+	paragraphs = soup.find_all('p')
 	#paragraphs = soup.br.next_sibling
 	#print(paragraphs)
 	list1 = []
