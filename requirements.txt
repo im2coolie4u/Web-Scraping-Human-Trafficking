@@ -29,7 +29,7 @@ debtags==2.1
 decorator==4.3.0
 deluge==2.0.3
 dnspython==1.15.0
-ecdsa==0.13
+ecdsa==0.13.3
 email-validator==1.0.3
 entrypoints==0.3
 GeoIP==1.3.2
