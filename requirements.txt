@@ -81,7 +81,7 @@ mpi4py==3.0.2
 msgpack==0.5.6
 numpy==1.16.5
 olefile==0.45.1
-paramiko==2.4.0
+paramiko==2.4.2
 passlib==1.7.1
 phonenumbers==8.10.2
 Pillow==5.2.0
