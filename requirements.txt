@@ -47,7 +47,7 @@ hashID==3.1.4
 hdf-compass==0.7b8
 hpack==3.0.0
 html5lib==1.0.1
-httplib2==0.9.2
+httplib2==0.18.0
 hyperframe==5.1.0
 hyperlink==19.0.0
 icalendar==4.0.0
