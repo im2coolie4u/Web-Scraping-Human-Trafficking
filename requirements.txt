@@ -121,7 +121,7 @@ python-libtorrent==1.1.13
 python-pam==1.8.4
 pytz==2018.5
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 rencode==1.0.6
 reportbug==7.5.0
 requests==2.21.0
