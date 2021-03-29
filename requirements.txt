@@ -97,7 +97,7 @@ pycups==1.9.73
 pycurl==7.43.0.1
 pyenchant==2.0.0
 pygame==1.9.6
-Pygments==2.3.1
+Pygments==2.7.4
 pygobject==3.28.2
 pygtkspellcheck==4.0.5
 pylint==2.2.2
