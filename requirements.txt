@@ -145,7 +145,7 @@ tornado==5.0.2
 Twisted==18.9.0
 tzlocal==1.5.1
 unattended-upgrades==0.1
-urllib3==1.24.2
+urllib3==1.26.5
 urwid==2.0.1
 virtualenv==15.1.0
 wafw00f==0.9.5
