@@ -76,7 +76,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 maxminddb==1.4.1
 mccabe==0.6.1
-mitmproxy==4.0.3
+mitmproxy==8.0.0
 mpi4py==3.0.2
 msgpack==0.5.6
 numpy==1.16.5
