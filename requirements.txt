@@ -27,7 +27,7 @@ cupshelpers==1.0
 cycler==0.10.0
 debtags==2.1
 decorator==4.3.0
-deluge==2.0.3
+deluge==2.1.0
 dnspython==1.15.0
 ecdsa==0.13
 email-validator==1.0.3
